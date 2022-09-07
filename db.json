@@ -36,17 +36,18 @@
             }
         ]
     ],
-    "comments": [
+    "settings": [
         {
             "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "setting_name": "Visibility",
+            "setting_value": true
         },
         {
             "id": 2,
-            "body": "some comment",
-            "postId": 1
+            "setting_name": "Some Other Setting",
+            "setting_value": false
         }
+       
     ],
     "profile": {
         "name": "narekpog"
