@@ -1,55 +1,110 @@
 {
     "products": [
-        [
-            {
-                "product_name": "T-Shirt",
-                "price": 100,
-                "is_available": true,
-                "materials": [
-                    "cotton"
-                ]
-            },
-            {
-                "product_name": "Jacket",
-                "price": 30,
-                "is_available": true,
-                "materials": [
-                    "jeans"
-                ]
-            },
-            {
-                "product_name": "Pants",
-                "price": 120,
-                "is_available": false,
-                "materials": [
-                    "cotton",
-                    "jeans"
-                ]
-            },
-            {
-                "product_name": "Top",
-                "price": 10,
-                "is_available": true,
-                "materials": [
-                    "cotton"
-                ]
-            }
-        ]
-    ],
-    "settings": [
+      [
         {
-            "id": 1,
-            "setting_name": "Visibility",
-            "setting_value": true
+          "product_name": "T-Shirt",
+          "price": 100,
+          "is_available": true,
+          "materials": [
+            "cotton"
+          ]
         },
         {
-            "id": 2,
-            "setting_name": "Some Other Setting",
-            "setting_value": false
+          "product_name": "Jacket",
+          "price": 30,
+          "is_available": true,
+          "materials": [
+            "jeans"
+          ]
+        },
+        {
+          "product_name": "Pants",
+          "price": 120,
+          "is_available": false,
+          "materials": [
+            "cotton",
+            "jeans"
+          ]
+        },
+        {
+          "product_name": "Top",
+          "price": 10,
+          "is_available": true,
+          "materials": [
+            "cotton"
+          ]
         }
-       
+      ]
+    ],
+    "settings": [
+      {
+        "id": 1,
+        "setting_name": "Visibility",
+        "setting_value": true
+      },
+      {
+        "id": 2,
+        "setting_name": "Some Other Setting",
+        "setting_value": false
+      }
     ],
     "profile": {
-        "name": "narekpog"
+      "name": "narekpog"
+    },
+    "feedback": {
+      "questions": [
+        {
+          "question_id": "8434e6c8-ff89-49db-9c8b-302a2a1388aa",
+          "question_text": "Did you like our app?",
+          "answers": [
+            {
+              "answer_text": "Probably",
+              "answer_id": 2,
+              "sort_order": 2
+            },
+            {
+              "answer_text": "Not Sure",
+              "answer_id": 3,
+              "sort_order": 3
+            },
+            {
+              "answer_text": "No",
+              "answer_id": 4,
+              "sort_order": 4
+            },
+            {
+              "answer_text": "Yes",
+              "answer_id": 1,
+              "sort_order": 1
+            }
+          ]
+        },
+        {
+          "question_id": "90b577cd-9b9e-4bdd-aec8-c841a348adaf",
+          "question_text": "Will you tell your friend about this app?",
+          "answers": [
+            {
+              "answer_text": "Why?",
+              "answer_id": 3,
+              "sort_order": 3
+            },
+            {
+              "answer_text": "Probably",
+              "answer_id": 2,
+              "sort_order": 2
+            },
+            {
+              "answer_text": "Yes",
+              "answer_id": 1,
+              "sort_order": 1
+            },
+            {
+              "answer_text": "Never",
+              "answer_id": 4,
+              "sort_order": 4
+            }
+          ]
+        }
+      ]
     }
-}
+  }
