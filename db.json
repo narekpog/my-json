@@ -6,6 +6,7 @@
         "price": 100,
         "image_url": "https://media.istockphoto.com/photos/red-tshirt-clipping-path-picture-id465485445?k=20&m=465485445&s=170667a&w=0&h=j1UQr-M2uXXe3YZ8jEt1b_KS7UFxHhPzQuZHKehCgTI=",
         "is_available": true,
+        "description": "Duis cupidatat in veniam sint. Irure laboris ea qui ipsum velit incididunt amet exercitation. Duis consequat sint elit deserunt velit aliqua. Laboris ex veniam pariatur eu ex ea magna nisi laboris anim exercitation tempor dolore nulla.",
         "materials": [
           "cotton"
         ]
@@ -15,6 +16,7 @@
         "image_url": "https://static4.depositphotos.com/1013245/356/i/600/depositphotos_3561159-stock-photo-luxuru-black-leather-jacket-isolated.jpg",
         "price": 30,
         "is_available": true,
+        "description": "Aliquip cillum consequat aliquip incididunt aute fugiat non irure eu cillum excepteur nisi. In tempor consequat cillum magna magna ullamco anim officia adipisicing non aliquip est. Velit aliqua do quis ullamco est aute ut dolor laborum. Sit ullamco quis exercitation velit. Amet est ex sunt incididunt esse do mollit consectetur adipisicing quis nostrud.",
         "materials": [
           "jeans"
         ]
@@ -24,6 +26,7 @@
         "image_url": "https://thumbs.dreamstime.com/b/chino-pants-24575402.jpg",
         "price": 120,
         "is_available": false,
+        "description": "Incididunt dolore occaecat fugiat sit ea velit amet reprehenderit sint id. Duis exercitation aliquip minim aute aliqua sint consequat excepteur nulla id duis qui. Laborum officia eiusmod consectetur ut officia in aute voluptate veniam ut officia. Ea magna proident proident mollit amet excepteur eiusmod do sunt fugiat dolor cupidatat exercitation.",
         "materials": [
           "cotton",
           "jeans"
@@ -33,6 +36,7 @@
         "product_name": "Top",
         "image_url": "https://i.pinimg.com/236x/f9/3f/1d/f93f1da278dfb8137ed5c99a85d67c84--buttons-online-blue-stripes.jpg",
         "price": 10,
+        "description": "Nostrud amet aliqua ut do aute cupidatat excepteur commodo velit eu sit do. Quis aute consequat occaecat nostrud enim sunt consequat adipisicing anim elit ex. Officia occaecat cillum non cupidatat ipsum laborum fugiat eu aute consequat. Ex reprehenderit fugiat amet fugiat sit esse ea exercitation enim est cupidatat. Reprehenderit est amet sunt anim cupidatat elit do irure.",
         "is_available": true,
         "materials": [
           "cotton"
