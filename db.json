@@ -1,141 +1,161 @@
 {
-  "products": [
+  "purchases": [
     [
       {
-        "product_name": "T-Shirt",
-        "price": 100,
-        "image_url": "https://media.istockphoto.com/photos/red-tshirt-clipping-path-picture-id465485445?k=20&m=465485445&s=170667a&w=0&h=j1UQr-M2uXXe3YZ8jEt1b_KS7UFxHhPzQuZHKehCgTI=",
-        "is_available": true,
-        "description": "Duis cupidatat in veniam sint. Irure laboris ea qui ipsum velit incididunt amet exercitation. Duis consequat sint elit deserunt velit aliqua. Laboris ex veniam pariatur eu ex ea magna nisi laboris anim exercitation tempor dolore nulla.",
-        "materials": [
-          "cotton"
-        ]
+        "title": "Hare Intro",
+        "sub_title": "5 plays",
+        "price": 0.99,
+        "plays_count": 10,
+        "show_badge": true
       },
       {
-        "product_name": "Jacket",
-        "image_url": "https://static4.depositphotos.com/1013245/356/i/600/depositphotos_3561159-stock-photo-luxuru-black-leather-jacket-isolated.jpg",
-        "price": 30,
-        "is_available": true,
-        "description": "Aliquip cillum consequat aliquip incididunt aute fugiat non irure eu cillum excepteur nisi. In tempor consequat cillum magna magna ullamco anim officia adipisicing non aliquip est. Velit aliqua do quis ullamco est aute ut dolor laborum. Sit ullamco quis exercitation velit. Amet est ex sunt incididunt esse do mollit consectetur adipisicing quis nostrud.",
-        "materials": [
-          "jeans"
-        ]
+        "title": "Tortoise Intro",
+        "sub_title": "25 plays",
+        "price": 4.99,
+        "plays_count": 50,
+        "show_badge": true
       },
       {
-        "product_name": "Pants",
-        "image_url": "https://thumbs.dreamstime.com/b/chino-pants-24575402.jpg",
-        "price": 120,
-        "is_available": false,
-        "description": "Incididunt dolore occaecat fugiat sit ea velit amet reprehenderit sint id. Duis exercitation aliquip minim aute aliqua sint consequat excepteur nulla id duis qui. Laborum officia eiusmod consectetur ut officia in aute voluptate veniam ut officia. Ea magna proident proident mollit amet excepteur eiusmod do sunt fugiat dolor cupidatat exercitation.",
-        "materials": [
-          "cotton",
-          "jeans"
-        ]
+        "title": "Tortoise Intro",
+        "sub_title": "50 plays",
+        "price": 9.99,
+        "plays_count": 100,
+        "show_badge": true
       },
       {
-        "product_name": "Top",
-        "image_url": "https://i.pinimg.com/236x/f9/3f/1d/f93f1da278dfb8137ed5c99a85d67c84--buttons-online-blue-stripes.jpg",
-        "price": 10,
-        "description": "Nostrud amet aliqua ut do aute cupidatat excepteur commodo velit eu sit do. Quis aute consequat occaecat nostrud enim sunt consequat adipisicing anim elit ex. Officia occaecat cillum non cupidatat ipsum laborum fugiat eu aute consequat. Ex reprehenderit fugiat amet fugiat sit esse ea exercitation enim est cupidatat. Reprehenderit est amet sunt anim cupidatat elit do irure.",
-        "is_available": true,
-        "materials": [
-          "cotton"
-        ]
+        "title": "Tortoise Expert",
+        "sub_title": "125 plays",
+        "price": 19.99,
+        "plays_count": 250,
+        "show_badge": true
+      },
+      {
+        "title": "The Fox",
+        "sub_title": null,
+        "price": 19.99,
+        "plays_count": 700,
+        "show_badge": false
       }
     ]
   ],
-  "settings": [
+  "leaderboard": [
     {
-      "id": 1,
-      "setting_name": "Visibility",
-      "setting_value": true
+      "id": "aa2842f3-ec97-4d4c-a286-aea3d1925b50",
+      "user_image_url": "https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg",
+      "first_name": "Bill",
+      "last_name": "Gates",
+      "score": 1163.7
     },
     {
-      "id": 2,
-      "setting_name": "Some Other Setting",
-      "setting_value": false
+      "id": "bb2842f3-ec97-3d4c-a286-aea3d1925b59",
+      "user_image_url": null,
+      "first_name": "Lena",
+      "last_name": "Brown",
+      "score": 163.0
+    },
+    {
+      "id": "gf2842d3-ec97-3d4c-a286-aea3d1925b59",
+      "user_image_url": null,
+      "first_name": "Bruce",
+      "last_name": "Wayne",
+      "score": 1104.9
+    },
+    {
+      "id": "gf2842d3-ee97-3d4c-a586-aea3d1925b59",
+      "user_image_url": null,
+      "first_name": "Peter",
+      "last_name": "Parker",
+      "score": 2004.9
+    },
+    {
+      "id": "gf2842d3-ee97-3d4c-a586-aea3d1925b59",
+      "user_image_url": null,
+      "first_name": "Sara",
+      "last_name": "Parker",
+      "score": 209.1
     }
   ],
-  "profile": {
-    "name": "narekpog"
-  },
-  "feedback": {
+  "quiz": {
     "questions": [
       {
-        "question_id": "8434e6c8-ff89-49db-9c8b-302a2a1388aa",
-        "question_text": "Did you like our app?",
+        "question_id": "8434e6c8-ff89-49db-9c8b-30eea2a1388aa",
+        "question_text": "Which video game was the best selling of 2019?",
+        "question_seconds": 20,
+        "question_image_url": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
         "answers": [
           {
-            "answer_text": "Probably",
-            "answer_id": 2,
-            "sort_order": 2
+            "answer_text": "Madden NFL 2020",
+            "answer_id": "81275e3f-b8f7-416d-afa7-922f267935fb",
+            "correct_answer": true
           },
           {
-            "answer_text": "Not Sure",
-            "answer_id": 3,
-            "sort_order": 3
+            "answer_text": "Mortal Combat 3",
+            "answer_id": "340b3bcd6-80f7-47f4-98a4-5e35e3920f7c",
+            "correct_answer": false
           },
           {
-            "answer_text": "No",
-            "answer_id": 4,
-            "sort_order": 4
+            "answer_text": "Call of Duty: Modern Warfare 2019",
+            "answer_id": "c548aa33-5531-4289-a0ce-863d96673a10",
+            "correct_answer": false
           },
           {
-            "answer_text": "Yes",
-            "answer_id": 1,
-            "sort_order": 1
+            "answer_text": "Kingdom Hearts III",
+            "answer_id": "81051587-60d5-422f-b941-1eedc5f8d80c",
+            "correct_answer": false
           }
         ]
       },
       {
-        "question_id": "90b577cd-9b9e-4bdd-aec8-c841a348adaf",
-        "question_text": "Will you tell your friend about this app?",
+        "question_id": "8434e6c8-ffaa-49db-9c8b-302a2a1388aa",
+        "question_text": "In which country was Hawaiian Pizza invented?",
+        "question_seconds": 20,
         "answers": [
           {
-            "answer_text": "Why?",
-            "answer_id": 3,
-            "sort_order": 3
+            "answer_text": "United States",
+            "answer_id": "81275e3f-b8f7-cc16d-afa7-922f267935fb",
+            "correct_answer": false
           },
           {
-            "answer_text": "Probably",
-            "answer_id": 2,
-            "sort_order": 2
+            "answer_text": "Canada",
+            "answer_id": "340b3bcd6-80f7-47f4cc8a4-5e35e3920f7c",
+            "correct_answer": true
           },
           {
-            "answer_text": "Yes",
-            "answer_id": 1,
-            "sort_order": 1
+            "answer_text": "Mexico",
+            "answer_id": "c548aa33-5531-4289-acce-863d96673a10",
+            "correct_answer": false
           },
           {
-            "answer_text": "Never",
-            "answer_id": 4,
-            "sort_order": 4
+            "answer_text": "Italy",
+            "answer_id": "81051587-60d5-422f-b941-1ccdc5f8d80c",
+            "correct_answer": false
           }
         ]
       },
       {
-        "question_id": "90b31237c9b9e-4bdd-aec8-c8441a348adaf",
-        "question_text": "What will you change about this app?",
+        "question_id": "8434e6c8-ff89-49db-9c8b-5422a2a1388aa",
+        "question_text": "What is the most spoken language in the world?",
+        "question_seconds": 15,
         "answers": [
           {
-            "answer_text": "Why?",
-            "answer_id": 3,
-            "sort_order": 3
+            "answer_text": "English",
+            "answer_id": "81275e3f-b8f1-416d-afa7-922f267935fb",
+            "correct_answer": true
           },
           {
-            "answer_text": "Not Sure",
-            "answer_id": 2,
-            "sort_order": 2
+            "answer_text": "Armenian",
+            "answer_id": "340b3bcd6-80f7-47f4-98a4-5e45e3920f7c",
+            "correct_answer": false
           },
           {
-            "answer_text": "Nothing",
-            "answer_id": 1,
-            "sort_order": 1
+            "answer_text": "Espanol",
+            "answer_id": "c548ba33-5531-4289-a0ce-863d96673a10",
+            "correct_answer": false
           },
           {
-            "answer_text": "Everything",
-            "answer_id": 4,
-            "sort_order": 4
+            "answer_text": "Russian",
+            "answer_id": "81051587-30d5-422f-b941-1eedc5f8d80c",
+            "correct_answer": false
           }
         ]
       }
